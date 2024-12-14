@@ -2,7 +2,6 @@
 
 ![alt text](static/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Sulaiman</h1>
 - 🔭 I'm Currently ... **Learning**
 
 - 🌱 I’m currently learning **Git, Github, Html, Css, Java,**
